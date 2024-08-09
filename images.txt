@@ -1,1 +1,2 @@
 --platform=linux/arm64 rabbitmq:3.13.6
+--platform=linux/arm64 rabbitmq:3.13.6-management
