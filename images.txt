@@ -1,2 +1,3 @@
 --platform=linux/arm64 rabbitmq:3.13.6
 --platform=linux/arm64 rabbitmq:3.13.6-management
+--platform=linux/arm64 elasticsearch:8.15.0
